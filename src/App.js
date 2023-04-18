@@ -17,10 +17,10 @@ let fooditems = [
     price: 25,
   },
   {
-    item: "Roll",
-    desc: "Roll is indian food item it is spicy",
+    item: "Momos",
+    desc: "Momo is indian food item it is spicy",
     rating: 4.2,
-    img: "https://source.unsplash.com/350x300/?Egg-roll",
+    img: "https://source.unsplash.com/350x300/?momos",
     price: 40,
   },
   {
@@ -29,6 +29,34 @@ let fooditems = [
     rating: 4.2,
     img: "https://source.unsplash.com/350x300/?burger",
     price: 80,
+  },
+  {
+    item: "Pizza",
+    desc: "Pizza is indian food item it is spicy",
+    rating: 4.2,
+    img: "https://source.unsplash.com/350x300/?pizza",
+    price: 50,
+  },
+  {
+    item: "Fries",
+    desc: "vadapav is indian food item it is spicy",
+    rating: 4.2,
+    img: "https://source.unsplash.com/350x300/?fries",
+    price: 25,
+  },
+  {
+    item: "Mango Shake",
+    desc: "Juice is indian food item it is spicy",
+    rating: 4.2,
+    img: "https://source.unsplash.com/350x300/?juice",
+    price: 45,
+  },
+  {
+    item: "Coffie",
+    desc: "Coffie is indian food item it is spicy",
+    rating: 4.2,
+    img: "https://source.unsplash.com/350x300/?coffie",
+    price: 30,
   }
 ]
 

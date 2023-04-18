@@ -20,6 +20,12 @@
   align-items: center;
   flex-wrap: wrap;
 }
+h1{
+  background: linear-gradient(to right, #ff8a00 0%, #dd4c4f 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+}
 .price{
   display: flex;
   justify-content: space-between;
